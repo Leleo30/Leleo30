@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Leo 👋
 
-<!--
-**Leleo30/Leleo30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de tecnologia apaixonado por aprender na prática e transformar ideias em projetos.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 📚 Estudando desenvolvimento, redes e automação
+- 🤖 Gosto de criar automações que facilitam o dia a dia
+- 🌱 Sempre aprendendo algo novo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos
+Meus projetos ficam reunidos no repositório [projetos](https://github.com/Leleo30/projetos).
+
+## 📫 Contato
+- GitHub: [@Leleo30](https://github.com/Leleo30)
